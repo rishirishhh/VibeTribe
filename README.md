@@ -5,7 +5,6 @@
 ### 🔐 User Authentication & Authorization
 
 - **Secure Sign-Up & Login**: Users can register and log in to the platform using a secure, token-based authentication system powered by **JWT (JSON Web Tokens)**. This ensures that user data remains protected and only authenticated users can access their accounts and perform various actions.
-- **Role-Based Access Control**: Certain features may be restricted based on user
 
 ### 📝 Post Management
 
